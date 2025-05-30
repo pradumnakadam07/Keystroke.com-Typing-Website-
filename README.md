@@ -18,11 +18,11 @@ HTML5
 CSS3
 
 Screenshots:
-![alt text]([link](https://github.com/pradumnakadam07/Keystroke.com-Typing-Website-/blob/5d719baf775aa90430c257aa1a7903d0d1ff9e49/Screenshot%202024-05-29%20211809.png))
-![alt text]([link](https://github.com/pradumnakadam07/Keystroke.com-Typing-Website-/blob/5d719baf775aa90430c257aa1a7903d0d1ff9e49/Screenshot%202024-05-29%20211751.png))
-![alt text]([link](https://github.com/pradumnakadam07/Keystroke.com-Typing-Website-/blob/5d719baf775aa90430c257aa1a7903d0d1ff9e49/Screenshot%202024-05-29%20211731.png))
-![alt text]([link](https://github.com/pradumnakadam07/Keystroke.com-Typing-Website-/blob/5d719baf775aa90430c257aa1a7903d0d1ff9e49/Screenshot%202024-05-29%20211707.png))
-![alt text]([link](https://github.com/pradumnakadam07/Keystroke.com-Typing-Website-/blob/5d719baf775aa90430c257aa1a7903d0d1ff9e49/Screenshot%202024-05-29%20211640.png))
+![alt text]([link](https://github.com/pradumnakadam07/Keystroke.com-Typing-Website-/blob/5d719baf775aa90430c257aa1a7903d0d1ff9e49/Screenshot%202024-05-29%20211809.png?raw=true))
+![alt text]([link](https://github.com/pradumnakadam07/Keystroke.com-Typing-Website-/blob/5d719baf775aa90430c257aa1a7903d0d1ff9e49/Screenshot%202024-05-29%20211751.png?raw=true))
+![alt text]([link](https://github.com/pradumnakadam07/Keystroke.com-Typing-Website-/blob/5d719baf775aa90430c257aa1a7903d0d1ff9e49/Screenshot%202024-05-29%20211731.png?raw=true))
+![alt text]([link](https://github.com/pradumnakadam07/Keystroke.com-Typing-Website-/blob/5d719baf775aa90430c257aa1a7903d0d1ff9e49/Screenshot%202024-05-29%20211707.png?raw=true))
+![alt text]([link](https://github.com/pradumnakadam07/Keystroke.com-Typing-Website-/blob/5d719baf775aa90430c257aa1a7903d0d1ff9e49/Screenshot%202024-05-29%20211640.png?raw=true))
 
 
 💡 Future Enhancements
