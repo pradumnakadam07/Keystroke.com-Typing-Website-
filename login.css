@@ -1,0 +1,89 @@
+.container {
+    display: flex;
+    height: 100vh;
+    /* This sets the container to    
+     occupy the full height of the viewport */
+}
+
+.block {
+    flex-direction: column;
+    /* This makes each item take up an equal  */
+    height: 100vh;
+}
+
+
+#left {
+    flex: 2.75;
+    color: black;
+    background-color: rgb(254, 237, 5);
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    padding-top: 200px;
+    position:relative;
+    border:rgb(254, 237, 5);
+    border-radius:10px;
+
+    /* text animation   */
+   
+}
+.word
+{
+    opacity: 0;
+  transition: opacity 1s;
+}
+
+#right {
+    flex: 2;
+    padding-top:200px;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    font-family: 'Trebuchet MS', sans-serif;
+    border:rgb(0, 0, 0);
+    border-radius:10px;
+}
+.login
+{   font-family: 'Trebuchet MS', sans-serif;
+    padding-left:200px;
+   
+}
+#getstr
+{
+    font-size:35px;
+}
+.btn1
+{
+    margin:0px 9px;
+        background-color: rgb(0, 0, 0);
+        color:rgb(255, 222, 7);
+        padding:6px 9px;
+        border:2px solid gray;
+        border-radius:10px;
+        font-size:15px;
+        cursor:pointer;
+        
+}
+.btn2
+{
+    margin:0px 9px;
+        background-color: rgb(0, 0, 0);
+        color:rgb(255, 222, 7);
+        padding:6px 9px;
+        border:2px solid gray;
+        border-radius:10px;
+        font-size:15px;
+        cursor:pointer;
+        
+}
+.btn1:hover
+{
+    color: rgb(0, 0, 0);
+    background-color:rgb(254, 237, 5);
+    
+}
+.btn2:hover
+{
+    color: rgb(0, 0, 0);
+    background-color:rgb(254, 237, 5);
+    
+}

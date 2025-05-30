@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KeyStroke.com Login</title>
+    <link rel="icon" type="image/x-icon" href="assets/keyboard.png" />
+    <link rel="icon" type="image/x-icon" href="assets/keyboard.png" />
+    <link rel="stylesheet" href="login.css">
+    <script>
+      function newPage()
+      {
+        window.location.href = 'index.html';
+      }
+    </script>
+
+  
+</head>
+<body>
+    <div class="container">
+        <div class="block" id="left">
+            
+            <span class="word">"Type</span>
+            <span class="word">way</span>
+            <span class="word">to</span>
+            <span class="word">success</span>
+            <span class="word" >-</span>
+            <span class="word" >one</span>
+            <span class="word"><b>KeyStroke</b></span>
+            <span class="word">at</span>
+            <span class="word">a</span>
+            <span class="word">time</span>
+            <span class="word">!!"</span>
+            <span class="word"></span>
+        </div>
+        <div class="block" id="right">
+            <div class="login">
+                <p id="getstr">Get started</p>
+            <Button class="btn1" >Log in</Button>
+            <Button class="btn2" onclick="newPage();">Sign up</Button>
+            </div>
+        </div>
+    </div>
+<script>
+    const words = document.querySelectorAll('.word');
+    const animationDuration = 250; // in milliseconds
+    const delay = animationDuration * words.length; // Total animation time for one iteration
+    
+    function animateWords() {
+      let currentTime = 0;
+      for (let i = 0; i < words.length; i++) {
+        setTimeout(() => {
+          words[i].style.opacity = '1';
+        }, currentTime);
+        currentTime += animationDuration;
+      }
+    }
+    
+    // Repeat the animation every 3 seconds (adjust the interval based on your preference)
+    setInterval(() => {
+      words.forEach(word => {
+        word.style.opacity = '0';
+      });
+      animateWords();
+    }, delay + 1500); // Add extra time to the delay for a smoother transition
+    animateWords(); // Initial animation
+    </script>
+
+    
+</body>
+</html>
