@@ -37,8 +37,9 @@ Edit
 # Open index.html in your browser
 📬 Contact
 If you have feedback, ideas, or want to contribute, feel free to reach out!
-📧 pradumnakadam@example.com
+📧 pradumnakadam@gmail.com
 🔗 LinkedIn
+https://www.linkedin.com/in/pradumna-kadam-883a40293/
 
 
 REFER SCREENSHOTS FOR MORE DETAIL..
