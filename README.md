@@ -31,8 +31,7 @@ Store stats using local storage or backend (Node.js/Firebase)
 bash
 Copy
 Edit
-# Clone the repository
-git clone https://github.com/yourusername/typing-website
+
 
 # Open index.html in your browser
 📬 Contact
